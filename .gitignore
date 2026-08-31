@@ -1,0 +1,8 @@
+# Nunca subir el archivo real con la key
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
